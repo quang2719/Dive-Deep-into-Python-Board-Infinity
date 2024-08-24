@@ -29,4 +29,3 @@ This repository is organized to take you on a structured learning journey:
 5. **File Handling:** Understand how to interact with files and directories in Python.
 6. **Error Handling:** Master techniques for dealing with errors and exceptions to build reliable software.
 
-## Getting Started 🏁
